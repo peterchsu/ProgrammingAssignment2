@@ -1,5 +1,11 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This file contains two functions, one of which creates a list
+## allowing the users to set and get the value of a matrix
+## aS well as set and get a cached inverse value.
+## 
+## The second function checks if an inverse value has been
+## cached, and returns this value; if one has not been cached
+## it will calculate, store, and then return the inverse
+
 
 ## this function returns a list containing a function to
 ## 
